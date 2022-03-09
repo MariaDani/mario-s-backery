@@ -1,0 +1,112 @@
+{
+    "products": [
+      {
+        "image": "1.jpg",
+        "name": "Croissant",
+        "price": 150.50,
+        "article": "croissant01",
+        "available": true,
+        "category": "Croissants",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "2.jpg",
+        "name": "Croissant with chocolate",
+        "price": 150.50,
+        "article": "croissant02",
+        "available": true,
+        "category": "Croissants",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "3.jpg",
+        "name": "Croissant with cheese",
+        "price": 150.50,
+        "article": "croissant03",
+        "available": true,
+        "category": "Croissants",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "4.jpg",
+        "name": "Cinnamon bun",
+        "price": 400.50,
+        "article": "cinnamon bun01",
+        "available": true,
+        "category": "Cinnamon buns",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "5.jpg",
+        "name": "Cinnamon bun with glaze",
+        "price": 400.50,
+        "article": "cinnamon bun02",
+        "available": true,
+        "category": "Cinnamon buns",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "6.jpg",
+        "name": "Cinnamon bun with chocolate",
+        "price": 400.50,
+        "article": "cinnamon bun03",
+        "available": true,
+        "category": "Cinnamon buns",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "7.jpg",
+        "name": "Pretzel",
+        "price": 130.50,
+        "article": "pretzel01",
+        "available": false,
+        "category": "Pretzels",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "8.jpg",
+        "name": "Pretzel with sesame",
+        "price": 130.50,
+        "article": "pretzel02",
+        "available": false,
+        "category": "Pretzels",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "9.jpg",
+        "name": "Сhocolate muffin",
+        "price": 200.50,
+        "article": "chocolate muffin01",
+        "available": true,
+        "category": "Deserts",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "10.jpg",
+        "name": "Eclair",
+        "price": 170.99,
+        "article": "eclair01",
+        "available": false,
+        "category": "Deserts",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "11.jpg",
+        "name": "Baguette",
+        "price": 100.45,
+        "article": "baguette01",
+        "available": true,
+        "category": "Bread",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "image": "12.jpg",
+        "name": "Baguette grain",
+        "price": 100.45,
+        "article": "baguette02",
+        "available": true,
+        "category": "Bread",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ]
+  }
