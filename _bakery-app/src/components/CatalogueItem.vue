@@ -84,13 +84,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '../assets/styles/styles.scss';
+//@import '../assets/styles/styles.scss';
 
 .catalogue-item {
     flex-basis: 30%;
     box-shadow: 0 0 8px 0 rgb(224,222,231);
-    padding: $padding;
-    margin-bottom: $margin*2;
+    padding: 8px;
+    margin-bottom: 16px;
     text-align: center;
 
     &__name {
