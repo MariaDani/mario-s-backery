@@ -165,7 +165,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '../assets/styles/styles.scss';
+//@import '../assets/styles/styles.scss';
 
 .catalogue {
     color: rgb(91,80,127);
