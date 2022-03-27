@@ -90,7 +90,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '../assets/styles/styles.scss';
+//@import '../assets/styles/styles.scss';
 
 .cart-item {
     display: flex;
@@ -106,8 +106,8 @@ export default {
     height: 200px;
 
     box-shadow: 0 0 8px 0 rgb(224,222,231);
-    padding: $padding*2;
-    margin-bottom: $margin*2;
+    padding: 16px;
+    margin-bottom: 16px;
     text-align: center;
 
     &__img {
@@ -125,7 +125,7 @@ export default {
     cursor: pointer;
     margin-left: 10px;
     margin-right: 10px;
-    padding: $padding;
+    padding: 8px;
 
    color: rgb(91,80,127);
 }
