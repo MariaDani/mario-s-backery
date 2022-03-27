@@ -92,7 +92,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '../assets/styles/styles.scss';
+//@import '../assets/styles/styles.scss';
 
 .cart {
     color: rgb(91,80,127);
@@ -108,7 +108,7 @@ export default {
         position: absolute;
         top: 120px;
         right: 10px;
-        padding: $padding*2;
+        padding: 16px;
 
         background-color: rgb(91,80,127);
         color: rgb(224,222,231);
@@ -126,7 +126,7 @@ export default {
         top: 125px;
         left: 1450px;
         width: 300px;
-        padding: $padding*3;
+        padding: 24px;
         display: flex;
         justify-content: center;
         background: rgb(224,222,231);
@@ -135,7 +135,7 @@ export default {
         text-transform: uppercase;
 
         &-name {
-            margin-right: $margin*2;
+            margin-right: 16px;
         }
     }
 }
